@@ -42,7 +42,7 @@ class stack{
             } 
            else
 		    { 
-               arr[++top]=x; 
+             ;  arr[++top]=x; 
                cout << x << " pushed into stack\n"; 
                return true; 
             } 
